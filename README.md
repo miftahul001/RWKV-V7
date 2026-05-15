@@ -1,6 +1,7 @@
 <div align="center">
 
 # RWKV-LM-V7 (Google Colab & Drive Edition)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miftahul001/RWKV-V7/blob/main/init.ipynb)
 
 </div>
 
